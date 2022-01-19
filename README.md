@@ -1,5 +1,5 @@
 getgenv().Seller =  "Rainster_s" 
-getgenv().altMsg = 
+getgenv().altMsg = "XD THANKS FOR USING MY MOD PERMS" 
 
 
 --[[
